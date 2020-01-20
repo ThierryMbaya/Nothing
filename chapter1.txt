@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-I have changed the text in the experiment branch. 
-=======
-This is chapter 1.
->>>>>>> experiment
+This is the change I made in experiment 2 
