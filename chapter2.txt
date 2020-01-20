@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This text has been changed in the experiment branch as well.
+=======
+This is chapter 2.
+>>>>>>> experiment
